@@ -14,3 +14,4 @@ function handleCategorySelected(event) {
     selected.classList.add("active");
   }
 }
+
